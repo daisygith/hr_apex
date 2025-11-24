@@ -34,7 +34,6 @@ prompt APPLICATION 20250916 - HR_APP
 --   Application:     20250916
 --   Name:            HR_APP
 --   Date and Time:   17:11 Sunday November 23, 2025
---   Exported By:     DUDEK.SYLWIA.U@GMAIL.COM
 --   Flashback:       0
 --   Export Type:     Application Export
 --     Pages:                     19
